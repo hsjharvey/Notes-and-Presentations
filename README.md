@@ -1,0 +1,1 @@
+![plot](./Study-notes/Financial%20Mathematics.png)
